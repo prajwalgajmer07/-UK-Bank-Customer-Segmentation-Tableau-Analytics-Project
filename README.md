@@ -110,24 +110,33 @@ These patterns can support targeted regional marketing and customized banking pr
 
 ## 📁 Repository Structure
 
-UK-Bank-Customer-Segmentation-Tableau/
-│
-├── dataset/
-│   └── uk_bank_customers.csv   
-│
-├── tableau_file/
-│   └── UK_Bank_Customer_Segmentation.twbx
-│
-├── screenshots/
-│   ├── executive_dashboard.png
-│   ├── map_view.png
-│   ├── gender_pie.png
-│   ├── age_distribution.png
-│   ├── balance_distribution.png
-│   └── job_classification_treemap.png
-│
-└── README.md
+# 🏬 Walmart Superstore Sales Analysis (USA) — Power BI Dashboard
 
-
+## 📌 Project Objective  
+To analyze Walmart’s sales performance across the United States and provide actionable insights for managers by evaluating sales, profit, customer segments, regional performance, and future sales trends using interactive Power BI dashboards.
 
 ---
+
+## 📂 Repository Structure
+
+```text
+📁 Dataset
+ └── UK-Bank-customer.csv
+
+📁 PowerBI_File
+ └── Customer_Segmentation_Dashboard.twbx
+
+📁 Screenshots
+ ├── executive_dashboard.png
+ ├── map_view.png
+ ├── gender_pie.png
+ ├── age_distribution.png
+ ├── balance_distribution.png
+ └── job_classification_treemap.png
+
+📄 README.md
+
+---
+
+
+
