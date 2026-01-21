@@ -108,15 +108,6 @@ These patterns can support targeted regional marketing and customized banking pr
 
 ---
 
-## 📁 Repository Structure
-
-# 🏬 Walmart Superstore Sales Analysis (USA) — Power BI Dashboard
-
-## 📌 Project Objective  
-To analyze Walmart’s sales performance across the United States and provide actionable insights for managers by evaluating sales, profit, customer segments, regional performance, and future sales trends using interactive Power BI dashboards.
-
----
-
 ## 📂 Repository Structure
 
 ```text
