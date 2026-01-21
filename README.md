@@ -113,20 +113,21 @@ These patterns can support targeted regional marketing and customized banking pr
 UK-Bank-Customer-Segmentation-Tableau/
 │
 ├── dataset/
-│ └── uk_bank_customers.csv
+│   └── uk_bank_customers.csv   
 │
 ├── tableau_file/
-│ └── UK_Bank_Customer_Segmentation.twbx
+│   └── UK_Bank_Customer_Segmentation.twbx
 │
 ├── screenshots/
-│ ├── executive_dashboard.png
-│ ├── map_view.png
-│ ├── gender_distribution.png
-│ ├── age_segmentation.png
-│ ├── balance_segmentation.png
-│ └── job_classification_treemap.png
+│   ├── executive_dashboard.png
+│   ├── map_view.png
+│   ├── gender_pie.png
+│   ├── age_distribution.png
+│   ├── balance_distribution.png
+│   └── job_classification_treemap.png
 │
 └── README.md
+
 
 
 ---
