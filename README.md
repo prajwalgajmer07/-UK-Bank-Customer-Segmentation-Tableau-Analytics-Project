@@ -1,4 +1,5 @@
-# 🇬🇧 UK Bank Customer Segmentation | Tableau Analytics Project
+# UK Bank Customer Segmentation | Tableau Analytics Project
+
 
 ## 📌 Project Summary
 
